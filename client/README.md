@@ -7,7 +7,8 @@ of the files are now lost. It was a static site, so I'm sure these days if I wan
 to I could recreate it fairly rapidly. I no longer own the domain name either.
 
 Now recently having graduated the Makers bootcamp and scrabbling around for work,\
-I thought I'd put this thing on steroids and learn some PERN.
+I thought I'd put this thing on steroids and learn some PERN. Anyone remember Brian\
+Pern?
 
 This is a work in progress; can't wait to start filling the database!
 
