@@ -19,6 +19,11 @@ function MenuPage() {
           </Link>
           <Button width='100px' variant='solid' border='2px' borderColor='blue.700' colorScheme='blue' _hover={{ bg: '#4da6ff' }} >2022</Button>
           <Button width='100px' variant='solid' border='2px' borderColor='blue.700' colorScheme='blue' _hover={{ bg: '#4da6ff' }} >2021</Button>
+          <Link to={"/"}>
+          <Button width='120px' variant='solid' border='2px' borderColor='blue.700' colorScheme='blue' _hover={{ bg: '#4da6ff' }} >
+            Back to home
+            </Button>
+          </Link>
           </Stack>
           </Box>
         </Container>
