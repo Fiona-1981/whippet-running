@@ -4,7 +4,7 @@ Back in the mists of time, possibly somewhere around 2011 to 2013, I created\
 a very simple hand coded website for my dear husband's running coaching sideline\
 using HTML and CSS that I'd taught myself. It was extremely rudimentary, and most\
 of the files are now lost. It was a static site, so I'm sure these days if I wanted\
-to I could recreate it fairly rapidly. I no longer own the domain name either.\
+to I could recreate it fairly rapidly. I no longer own the domain name either.
 
 Now recently having graduated the Makers bootcamp and scrabbling around for work,\
 I thought I'd put this thing on steroids and practice my JavaScript, React, Chakra,\
