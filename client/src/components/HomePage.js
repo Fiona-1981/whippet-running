@@ -14,7 +14,7 @@ function HomePage() {
             <Text padding='50px' color='blue.700' fontFamily='fantasy' >Whippet Running</Text>
           </Heading>
           <Text fontSize='2xl' color='blue.700' align='center' paddingBottom='20px' >🏃‍♂️ A Repository of Running 🏃‍♂️</Text>
-          <Center>
+           <Center>
           <Image padding='40px' src={source}/>
           </Center>
           <Link to={"/menu"}>
