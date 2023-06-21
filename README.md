@@ -10,7 +10,14 @@ Now recently having graduated the Makers bootcamp and scrabbling around for work
 I thought I'd put this thing on steroids and learn some PERN. Anyone remember Brian\
 Pern?
 
-This is a work in progress; can't wait to start filling the database!
+For the back end, I set up a Postgres database on my local machine, nice and simple,\
+and then did these steps:
+
+- mkdir server in my main project folder\
+- touch database.sql in the server folder\
+- 
+
+You can see below the automated instructions for the front end.
 
 ## Getting Started with Create React App
 
