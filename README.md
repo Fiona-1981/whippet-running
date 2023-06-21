@@ -13,8 +13,8 @@ Pern?
 For the back end, I set up a Postgres database on my local machine, nice and simple,\
 and then did these steps:
 
-- mkdir server in my main project folder\
-- touch database.sql in the server folder\
+- mkdir server in my main project folder.
+- touch database.sql in the server folder.
 - 
 
 You can see below the automated instructions for the front end.
