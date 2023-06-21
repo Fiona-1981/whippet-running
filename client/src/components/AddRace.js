@@ -17,8 +17,7 @@ function AddRace() {
         body: JSON.stringify(body)
       });
 
-      console.log(response);
-      window.location = "/"; // doesn't seem to do anything
+      Window.location = "/"; //doesn't seem to do anything
     } catch (err) {
       console.error(err.message);
     }

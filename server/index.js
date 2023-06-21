@@ -46,7 +46,7 @@ app.get("/races/:id", async (req, res) => {
   }
 });
 
-// Update a race
+// Update a race. Doesn't seem to work.
 app.put("/races/:id", async (req, res) => {
   try {
     const { id } = req.params;
@@ -60,7 +60,7 @@ app.put("/races/:id", async (req, res) => {
   }
 })
 
-// delete a race
+// delete a race. Doesn't seem to work.
 app.delete("./races/:id", async (req, res) => {
   try {
     const { id } = req.params;
