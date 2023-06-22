@@ -65,7 +65,7 @@ function Annus2023() {
           <Stack padding='30px' align='left' >
           <Link to={"/addrace"}>
           <Button width='135px' variant='solid' border='2px' borderColor='blue.700' colorScheme='blue' _hover={{ bg: '#4da6ff' }} >
-            Add race details
+            Add a race
             </Button>
           </Link>
           <Link to={"/menu"}>
