@@ -11,7 +11,7 @@ function AddRace() {
 
     // This is currently a workaround as I can't get window.location to work after the try.
     // Obviously if I put window.location here and not after line 23, it redirects without saving the race.
-    // alert('Saved! You can now hit "Back to years" to view your race.');
+    alert('Saved! You can now hit "Back to years" to view your race.');
     
     try {
       const body = { race, date };
@@ -22,7 +22,7 @@ function AddRace() {
         body: JSON.stringify(body),
       }); 
 
-      window.location = "/2023";
+      window.location = "/2023"; // Annoying!
     } catch (err) {
       console.error(err.message);
     }
