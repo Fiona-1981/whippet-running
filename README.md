@@ -10,12 +10,9 @@ Now recently having graduated the Makers bootcamp and scrabbling around for work
 I thought I'd put this thing on steroids and learn some PERN. Anyone remember Brian\
 Pern?
 
-For the back end, I set up a Postgres database on my local machine, nice and simple,\
-and then did these steps:
-
-- mkdir server in my main project folder.
-- touch database.sql in the server folder.
-- 
+If anyone has any suggestions about where to locate window.location in file\
+AddRace.js, please do let me know. The bugger just won't work! If I put it in front\
+of the function, then obviously, it works, but my races don't save.
 
 You can see below the automated instructions for the front end.
 
