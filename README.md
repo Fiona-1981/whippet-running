@@ -14,7 +14,7 @@ If anyone has any suggestions about where to locate window.location in file\
 AddRace.js, please do let me know. The bugger just won't work! If I put it in front\
 of the function, then obviously, it works, but my races don't save.
 
-Currently, the tears 2022 and 2021 are inactive buttons; this project is just to showcase\
+Currently, the years 2022 and 2021 are inactive buttons; this project is just to showcase\
 my PERN skills for now. I can't compete with Garmin and Strava!
 
 You can see below the automated instructions for the front end.
