@@ -6,13 +6,16 @@ using HTML and CSS that I'd taught myself. It was extremely rudimentary, and mos
 of the files are now lost. It was a static site, so I'm sure these days if I wanted\
 to I could recreate it fairly rapidly. I no longer own the domain name either.
 
-Now recently having graduated the Makers bootcamp and scrabbling around for work,\
+Now recently having graduated the Makers bootcamp,\
 I thought I'd put this thing on steroids and learn some PERN. Anyone remember Brian\
 Pern?
 
 If anyone has any suggestions about where to locate window.location in file\
 AddRace.js, please do let me know. The bugger just won't work! If I put it in front\
 of the function, then obviously, it works, but my races don't save.
+
+Currently, the tears 2022 and 2021 are inactive buttons; this project is just to showcase\
+my PERN skills for now. I can't compete with Garmin and Strava!
 
 You can see below the automated instructions for the front end.
 

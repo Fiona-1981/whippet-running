@@ -60,7 +60,7 @@ app.put("/races/:id", async (req, res) => {
   }
 })
 
-// delete a race. Doesn't seem to work.
+// delete a race. Doesn't seem to work. Used with * and without
 app.delete("./races/:id", async (req, res) => {
   try {
     const { id } = req.params;
