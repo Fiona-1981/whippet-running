@@ -6,6 +6,9 @@ using HTML and CSS that I'd taught myself. It was extremely rudimentary, and mos
 of the files are now lost. It was a static site, so I'm sure these days if I wanted\
 to I could recreate it fairly rapidly. I no longer own the domain name either.
 
+<img width="640" alt="whippet running for GitHub" src="https://github.com/Fiona-1981/whippet-running/assets/82163486/f14bc92c-1a59-479c-9884-ffe28adb17e9">
+
+
 Now recently having graduated the Makers bootcamp,\
 I thought I'd put this thing on steroids and learn some PERN. Anyone remember Brian\
 Pern?
